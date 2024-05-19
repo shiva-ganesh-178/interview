@@ -1,0 +1,26 @@
+python interview questions:
+
+1) What are the modules you used?
+2) Where do you used inheritance concept in your project?
+3) In which framework do you write API?
+4) How do you configured authorization in Django?
+5) what is diff b/w pytest and unit test case?
+6) How to call unit test case? 
+7) Do you use setup and setup class methods?
+8) write a class which can create only one object?     # if we create the second object, then it should return the first object?
+9) what is need of method overriding in application development?
+10)what is the need of super keyword? can you give me an example?
+11)what id diff b/w multithreading and multiprocessing? when to use multithreading and when to use multiprocessing?
+12)If there is a 8core processor in my laptop, how many process can i create?
+13)Can you talk about shallow copy and deep copy?
+14)what are the exception keywords in python?
+15)what is the need of finally block?
+
+
+================================================
+1)Difference between list and tuple?
+2)find the longest palindrome in a given string?string: madam,mam ?
+3)write a python student class ?
+4)check if a given string is a palindrome or not?
+5)write a python class such that we should be able to create one and only instance from it, if we try to create second instance, it should throw an error?
+6)what are the dictionary methods you used in your project?
